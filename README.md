@@ -13,6 +13,10 @@ MaterialSearchView
 
 ![](http://www.apkbus.com/data/attachment/forum/201508/07/162432g03ilzzi735imhm8.gif)
 
+别问我做这个有什么卵用，呵呵，还真有很多应用用了,稍微改改就可以做成这种效果的
+
+![](http://www.apkbus.com/data/attachment/forum/201508/07/163344evnd8td04xqnxqi4.png)
+
 
 
 
