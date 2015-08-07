@@ -1,0 +1,14 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Base.Theme.CJJDemo">
+    </style>
+
+    <style name="Base.Theme.CJJDemo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#ffd46c</item>
+        <item name="colorPrimaryDark">#512DA8</item>
+        <item name="colorAccent">#4caf50</item>
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+</resources>
