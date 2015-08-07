@@ -7,6 +7,8 @@ MaterialSearchView
 
 ![](http://www.apkbus.com/data/attachment/forum/201508/07/161021r303jnspsw6k3jmp.png)
 
+显示一个搜索的图标，然后跳到另一个界面，才输入要搜索的东西
+
 ![](http://www.apkbus.com/data/attachment/forum/201508/07/161022olmrnuimmfim1mmb.png)
 
 我做的是这样的，有没有一点小清新，呵呵！（完全没有）
