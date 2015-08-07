@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 if (mAnimator != null && !mAnimator.isRunning()) {
                     mAnimator = mAnimator.reverse();
-                    int cx = cardView.getRight();
                     float curTranslationX = iv_bottom_search.getTranslationX();
                     final ObjectAnimator animator = ObjectAnimator.ofFloat(iv_bottom_search, "translationX", curTranslationX, 0);
                     animator.setDuration(1000);

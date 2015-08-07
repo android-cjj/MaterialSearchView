@@ -17,23 +17,7 @@
         cjj:cardBackgroundColor="#f2f2f2"
         cjj:cardCornerRadius="2dp">
 
-        <!--<RelativeLayout-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content">-->
 
-        <!--<LinearLayout-->
-        <!--android:id="@+id/linearLayout_search"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="48dp">-->
-
-        <!--<ImageView-->
-        <!--android:id="@+id/image_search_back"-->
-        <!--android:layout_width="48dp"-->
-        <!--android:layout_height="48dp"-->
-        <!--android:clickable="true"-->
-        <!--android:contentDescription="@string/imate_back"-->
-        <!--android:padding="12dp"-->
-        <!--android:src="@mipmap/ic_arrow_back"/>-->
         <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -62,10 +46,6 @@
             android:padding="12dp"
             android:src="@drawable/ic_search" />
 
-        <!--</LinearLayout>-->
-
-        <!-- -->
-        <!--</RelativeLayout>-->
     </android.support.v7.widget.CardView>
 
     <android.support.design.widget.FloatingActionButton
